@@ -1,0 +1,184 @@
+
+@font-face {
+    font-family: 'LV-title';
+    src: url('../assets/quicksand/Quicksand-Regular.ttf');
+}
+body {
+    font-family: 'LV-title';
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:  #4915c2;
+    padding-right : 20px;
+    position: fixed;
+    height: 100px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.highgameplay {
+    width: 700px;
+    height: auto;
+    border-radius: 6px;
+}
+.Présentation {
+    text-align: center;
+    padding-top: 100px;
+    background-color: #fff346;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 150px;
+}
+.logo {
+    width: 100px;
+    height: auto;
+    border-radius: 6px;
+}
+nav ul li {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    border-radius: 6px;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+}
+ul li {
+    list-style: none;
+    border-radius: 6px;
+}
+p {
+    font-size: 18px;
+    width: 600px;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 6px;
+}
+.text {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding : 20px;
+    border-radius: 6px;
+}
+.Icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 6px;
+}
+a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 6px;
+}
+.classes {
+    background-color:  #fff346;
+    display: flex;
+    flex-direction: row;
+}
+.jeu {
+    background-color: #724dca;
+    width: 100%;
+    padding: 20px;
+}
+.texto {
+    width: 1000px;
+    padding-left: 20px;
+    border-radius: 6px;
+}
+.classesbaguarreur {
+    background-color:  #724dca;
+    display: flex;
+    flex-direction: row;
+}
+.Icone {
+    width: 100px;
+    height: 100px;
+    border-radius: 6px;
+}
+.jeu2 {
+    background-color: #fff346;
+    width: 100%;
+    padding: 20px;
+}
+.texte {
+    color : #000000;
+    border-radius: 6px;
+}
+.Icones {
+    width: 200px;
+    height: 200px;
+    border-radius: 6px;
+}
+.button1 {
+  width: 300px;
+  height: auto;
+  background: none;
+  border-radius: 6px;   
+}
+.classes1 {
+    background-color:  #fff346;
+    display: flex;
+    flex-direction: row;
+    padding-top: 100px;
+}
+ol li {
+    list-style: none;
+    border-radius: 6px;
+}
+.classesbaguarreur1 {
+    background-color:  #724dca;
+    display: flex;
+    flex-direction: row;
+    padding-top: 100px;
+}
+.Icone1 {
+    width: 100px;
+    height: 115px;
+    border-radius: 6px;
+}
+.elixirs {
+    background-color:  #f35608;
+    width: 100%;
+}
+.elixirs1 {
+    background-color:  #f35608;
+    width: 100%;
+    padding-top: 100px;
+}
+button {
+  background: none;
+  cursor: pointer;
+  border: none;
+  text-transform: uppercase;
+}
+
+.bouton {
+  background: none;
+  border-radius: 6px;   
+}
+
+.highgameplay1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+footer {
+    background-color: #fff346;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

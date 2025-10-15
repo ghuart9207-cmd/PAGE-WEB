@@ -35,7 +35,7 @@ cd src; python -m http.server 8000
 
 Puis ouvrez http://localhost:8000 dans votre navigateur.
 
-## Aperçu (Screensite)
+## Aperçu
 
 Voici un aperçu de la page (placeholder) nommé "Screensite". L'image est fournie dans `assets/Screensite.jpg`.
 

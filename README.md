@@ -37,6 +37,6 @@ Puis ouvrez http://localhost:8000 dans votre navigateur.
 
 ## Aperçu (Screensite)
 
-Voici un aperçu de la page (placeholder) nommé "Screensite". L'image est fournie dans `assets/Screensite.png`.
+Voici un aperçu de la page (placeholder) nommé "Screensite". L'image est fournie dans `assets/Screensite.jpg`.
 
-![Screensite preview](assets/Screensite.png)
+![Screensite preview](assets/Screensite.jpg)

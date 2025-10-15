@@ -1,7 +1,6 @@
 # PAGE-WEB
-# PAGE-WEB
 
-Ce projet contient une petite page web statique (HTML/CSS/JS) utilisée comme exercice ou démonstration. Le contenu est rédigé en français et l'architecture est volontairement simple pour faciliter la lecture et la personnalisation.
+Ce projet contient une petite page web statique (HTML/CSS/JS) utilisée comme démonstration. Le contenu est rédigé en français et l'architecture est volontairement simple pour faciliter la lecture et la personnalisation.
 
 ## Structure du projet
 
@@ -35,22 +34,3 @@ cd src; python -m http.server 8000
 ```
 
 Puis ouvrez http://localhost:8000 dans votre navigateur.
-
-## Police et licences
-
-La police Quicksand est fournie dans `assets/quicksand/`. Consultez `OFL.txt` dans ce dossier pour les conditions d'utilisation. Les autres fichiers de métadonnées sont inclus pour information.
-
-## Bonnes pratiques et suggestions
-
-- Renommez `java.js` en `main.js` ou `app.js` si vous préférez des conventions plus courantes.
-- Minifiez les fichiers CSS/JS pour la production.
-- Ajoutez un fichier `favicon.ico` et des meta tags Open Graph si vous publiez le site.
-
-## Crédits
-
-Ce dépôt a été créé comme exercice d'apprentissage. La police Quicksand est distribuée sous la licence Open Font License (voir `assets/quicksand/OFL.txt`).
-
----
-
-Si vous souhaitez que je génère une version plus détaillée du README (avec captures d'écran, instructions de déploiement, ou un mini-serveur npm), dites-le et je l'ajouterai.
-# PAGE-WEB
